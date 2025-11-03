@@ -17,7 +17,7 @@ docker-compose run --rm mongoquery-ai python connect.py
 ```bash
 docker-compose up --build
 ```
-- To access your website go to ["http://localhost:8501"]
+- To access your website go to [http://localhost:8501](http://localhost:8501)
 
 #### To stop the application 
 ```bash
