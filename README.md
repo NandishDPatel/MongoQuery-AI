@@ -10,7 +10,7 @@
 
 #### Step 3 : Initialize the Database
 ```bash
-docker-compose run --rm mongo-chatbot python connect.py
+docker-compose run --rm mongoquery-ai python connect.py
 ```
 
 #### Step 4 : Run and access the streamlit application
