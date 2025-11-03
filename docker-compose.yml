@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  mongoquery-ai:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - MONGO_URI=${MONGO_URI}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    volumes:
+      - .:/app
+    container_name: mongoquery-ai
+    restart: unless-stopped
