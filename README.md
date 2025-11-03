@@ -3,9 +3,6 @@
 - Landing page before connecting to mongoDB
 - ![Landing Page](images/01.png)
 
-- After sucessful connection
-- ![Successfull Connection Page](images/02.png)
-
 - First query result 
 - ![1st query](images/03.png)
 
