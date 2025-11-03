@@ -3,7 +3,7 @@ ul{
     position: fixed !important;
     top: 60px !important;
     left: 0px !important;
-    max-width: 100% !important;
+    width: 100% !important;
     background: #a7c957 !important;
     color: white !important;
     padding-left: 240px !important;
